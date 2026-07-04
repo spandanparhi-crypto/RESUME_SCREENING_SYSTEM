@@ -292,7 +292,7 @@ This project is licensed under the MIT License.
 
 **Spandan Parhi**
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/spandanparhi-crypto)
 
 ---
 
