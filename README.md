@@ -2,7 +2,7 @@
 
 An AI-powered **Resume Screening System** that automatically analyzes, compares, and ranks multiple resumes against a given job description. This project helps recruiters and HR professionals save time by automating the resume screening process using intelligent text matching and candidate scoring.
 
-🌐 **Live Demo:** https://balanced-cyan-6rc489cz.edgeone.dev/
+🌐 **Live Demo:** (https://closed-olive-j6odgkop.edgeone.dev/)
 
 ---
 
